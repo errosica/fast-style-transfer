@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #Evan Russenberger-Rosica
 
 #run from fast-style-transfer repo directory
